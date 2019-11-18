@@ -1,0 +1,13 @@
+{
+  "name": "node-3-afternoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jeramiah1017/node-3-afternoon.git",
+  "author": "jeramiah1017 <55998280+jeramiah1017@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "massive": "^6.1.1"
+  }
+}
